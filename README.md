@@ -1,4 +1,4 @@
-# Hi, I'm Emily 👋
+# Hi, I'm Emmy 👋
 
 ### Program Operations | Project & Program Management | Customer Experience
 
