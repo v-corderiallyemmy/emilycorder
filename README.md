@@ -30,4 +30,4 @@ I'm using this space to document selected program management, operations, proces
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-corder/) • [Portfolio](YOUR-PORTFOLIO-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-corder/) • [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-6f42c1?logo=githubpages&logoColor=white)](https://v-corderiallyemmy.github.io/portfolio/)
